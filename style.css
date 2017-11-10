@@ -32,3 +32,30 @@ a.nav-item:last-child:after {
   text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
   text-align: center;
 }
+
+.packing-list {
+  opacity: .9;
+  display: table;
+  margin: 0 auto;
+}
+
+.packing-list li {
+  list-style-type: none;
+}
+
+.packing-list .boys {
+  display: inline-block;
+  list-style-type: none;
+  height: 300px;
+  width: 300px;
+  background: white;
+  margin-right: 50px;
+}
+.packing-list .girls {
+  display: inline-block;
+  list-style-type: none;
+  height: 300px;
+  width: 300px;
+  background: white;
+  margin-left: 50px;
+}

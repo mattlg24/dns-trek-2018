@@ -95,3 +95,8 @@ iframe {
   margin-left: 120px;
   border-radius: 5px;
 }
+
+#instagram img {
+  height: 50px;
+  width: 50px;
+}

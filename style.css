@@ -53,16 +53,23 @@ iframe {
 .calendar {
   background: white;
   opacity: .9;
+  margin-bottom: 60px;
+}
+
+.calendar p {
+  font-size: 15px;
 }
 
 .event-title {
   font-weight: bold;
+  font-size: 17px;
 }
 
 .packing-list {
   opacity: .9;
   display: table;
   margin: 0 auto;
+  margin-bottom: 60px;
 }
 
 .packing-list li {
